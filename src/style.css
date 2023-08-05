@@ -1,0 +1,10 @@
+.logo {
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+}
+
+body {
+    background-color: #000;
+    background-image: url('background.jpg');
+}
